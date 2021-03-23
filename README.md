@@ -1,12 +1,12 @@
 
-### Hi there 👋
+## Hi 👋, I'm [Arturo Ruiz Pascual](https://arturoruizpascual.web.app/)
 
 [![Twitter: artu_st](https://img.shields.io/twitter/follow/artu_st?style=social)](https://twitter.com/artu_st)
 [![GitHub artu-st](https://img.shields.io/github/followers/artu-st?label=follow&style=social)](https://github.com/artu-st)
 [![LinkedIn: Arturo Ruiz Pascual](https://img.shields.io/badge/ArturoRuizPascual-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/arturo-ruiz-pascual-6226a0149/)
 [![Paypal donate](https://img.shields.io/badge/paypal-donate-blue)](https://www.paypal.com/paypalme/ArturoRuizPascual)
 
-I'm Arturo. I am dedicated to industrial robotics. With more than 5 years of experience in the automotive sector, I am one of the main suppliers of companies at a global level such as Reanult or PSA in Spain.
+I am dedicated to industrial robotics. With more than 5 years of experience in the automotive sector, I am one of the main suppliers of companies at a global level such as Reanult or PSA in Spain.
 I am currently trying to make my way as a freelancer in the multiplatform applications market, betting very strongly on Flutter and artificial intelligence tools such as Tensorflow.
 
 <!--
