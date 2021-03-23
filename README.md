@@ -31,6 +31,28 @@ Here are some ideas to get you started:
 - 😄  Pronouns: He/Him
 - ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged 🤙
 
+<br/>
+
+### You can find me online in these places
+
+<a href="https://arturoruizpascual.web.app/">
+  <img align="left" alt="Arturo Ruiz Pascual's Website" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/globe.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arturo-ruiz-pascual-6226a0149/">
+  <img align="left" alt="Arturo Ruiz Pascual's Linkdein" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/linkedin.svg" />
+</a>
+<a href="https://github.com/artu_st">
+  <img align="left" alt="Arturo Ruiz Pascual's Github" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/github.svg" />
+</a>
+<a href="https://twitter.com/artu_st">
+  <img align="left" alt="Arturo Ruiz Pascual's Twitter" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/twitter.svg" />
+</a>
+<a href="https://t.me/artu_st">
+  <img align="left" alt="Arturo Ruiz Pascual's Telegram" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/message-circle.svg" />
+</a>
+
+<br/>
+
 ## Some of my go-to weapons...
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
