@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - 😄  Pronouns: He/Him
 - ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged 🤙
 
-<br/>
-
 ### You can find me online in these places
 
 <a href="https://arturoruizpascual.web.app/">
@@ -50,8 +48,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/artu_st">
   <img align="left" alt="Arturo Ruiz Pascual's Telegram" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/message-circle.svg" />
 </a>
-
-<br/>
 
 ## Some of my go-to weapons...
 
